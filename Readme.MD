@@ -1,6 +1,6 @@
 #react-parcel-tsx-starter
 
-This is a simple starter kit to bootstrap your application. It is ready to be immediately built and used as-is. The current state of autoprefixer for classes and CSS modules is kinda shaky, you may have to dig up some stuff.
+This is a simple starter kit to bootstrap your application. It is ready to be immediately built and used as-is. The current state of autoprefixer for classes and CSS modules is kinda shaky, you may have to dig up some stuff - so for now stick to not affecting HTML tags directly e.g. h1,div,etc.
 
 ##usage
 
