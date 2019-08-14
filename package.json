@@ -1,0 +1,29 @@
+{
+    "name": "react-parcel-tsx-starter",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "parcel src/index.html",
+        "build": "parcel build src/index.html",
+        "build-static": "parcel build src/index.html --public-url ./"
+    },
+    "keywords": [],
+    "author": "Philip Alexander Hassialis",
+    "license": "MIT",
+    "devDependencies": {
+        "babel-core": "^6.26.3",
+        "babel-preset-env": "^1.7.0",
+        "babel-preset-react": "^6.24.1",
+        "parcel-bundler": "^1.12.3",
+        "postcss-modules": "^1.4.1",
+        "typescript": "^3.5.3"
+    },
+    "dependencies": {
+        "@types/react": "^16.9.1",
+        "@types/react-dom": "^16.8.5",
+        "react": "^16.9.0",
+        "react-dom": "^16.9.0",
+        "autoprefixer": "^9.6.1"
+    }
+}
