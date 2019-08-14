@@ -1,8 +1,8 @@
-#react-parcel-tsx-starter
+# react-parcel-tsx-starter
 
 This is a simple starter kit to bootstrap your application. It is ready to be immediately built and used as-is. The current state of autoprefixer for classes and CSS modules is kinda shaky, you may have to dig up some stuff - so for now stick to not affecting HTML tags directly e.g. h1,div,etc.
 
-##usage
+## usage
 
 1. git clone
 2. npm install
@@ -10,6 +10,6 @@ This is a simple starter kit to bootstrap your application. It is ready to be im
 4. npm build - builds it as a deployable folder for your server
 5. npm build-static - builds the application in a static manner where every url starts relative to the location of index.html file. Depending on your server config you may have to use this. Additionally, if you don't use something that demands a server, you may actually run the application by opening the index.html file in the /dist directory
 
-##License
+## License
 
 MIT
